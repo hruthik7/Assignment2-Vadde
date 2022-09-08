@@ -24,3 +24,7 @@ This Table shows Information About Places should visit and Amount of time to spe
 |Delhi|Red Fort|Two Hours|
 |Kolkata|Eden Gardens|Three Hours|
 |Goa|Baga Beach|Twelve Hours|
+_______________________________________________
+# Quotes
+>"I have Learned not to allow rejection to move me." - *Cicely Tyson*
+>"Fear Kills more dreams than failure ever will"- *Suzy Kassem*
