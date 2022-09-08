@@ -17,7 +17,9 @@ There are so many another Places around musuem named
 
 [Link to know about myself](AboutME.md)
 _______________________________________________
-This Table shows Information About Places should visit and Amount of time to spent.
+This Table shows Information About Places 
+should visit and Amount of time to spent.
+# Table of cities to visit.
 | City | Place | Time To Spent |
 | --- | --- | --- |
 |Hyderabad|Charminar|Four Hours|
