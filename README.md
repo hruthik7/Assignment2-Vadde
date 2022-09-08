@@ -16,3 +16,11 @@ There are so many another Places around musuem named
 * Marble Palace. 
 
 [Link to know about myself](AboutME.md)
+_______________________________________________
+This Table shows Information About Places should visit and Amount of time to spent.
+| City | Place | Time To Spent |
+| --- | --- | --- |
+|Hyderabad|Charminar|Four Hours|
+|Delhi|Red Fort|Two Hours|
+|Kolkata|Eden Gardens|Three Hours|
+|Goa|Baga Beach|Twelve Hours|
