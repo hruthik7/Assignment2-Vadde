@@ -29,3 +29,21 @@ _______________________________________________
 >"I have Learned not to allow rejection to move me." - *Cicely Tyson*
 
 >"Fear Kills more dreams than failure ever will"- *Suzy Kassem*
+_______________________________________________
+ # Code Fencing
+>How to display "no posts found" for wordpress tag related posts?
+>
+[Click here to view Answer for  above Question. ](https://stackoverflow.com/questions/18312384/how-to-display-no-posts-found-for-wordpress-tag-related-posts)
+
+```
+function get_the_content_by_id($post_id) {
+  $page_data = get_page($post_id);
+  if ($page_data) {
+    return $page_data->post_content;
+  }
+  else return false;
+}
+```
+>
+[Press This Link to view code of Wordpress](https://css-tricks.com/snippets/wordpress/get-content-by-id/)
+
