@@ -19,7 +19,7 @@ There are so many another Places around musuem named
 _______________________________________________
 This Table shows Information About Places 
 should visit and Amount of time to spent.
-# Table of cities to visit.
+# Table of cities to visit in India
 | City | Place | Time To Spent |
 | --- | --- | --- |
 |Hyderabad|Charminar|Four Hours|
