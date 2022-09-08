@@ -27,4 +27,5 @@ This Table shows Information About Places should visit and Amount of time to spe
 _______________________________________________
 # Quotes
 >"I have Learned not to allow rejection to move me." - *Cicely Tyson*
+
 >"Fear Kills more dreams than failure ever will"- *Suzy Kassem*
